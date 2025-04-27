@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.ant-menu-horizontal {
+  border-bottom: none !important;
+}
+
+.ant-menu-vertical {
+  border: none !important;
+}
